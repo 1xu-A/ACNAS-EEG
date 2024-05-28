@@ -9,3 +9,5 @@ Architecture Evaluation
 python train.py 
 
 The server in use: RTX 3090.
+
+For exchange and learning, please contact: Yingxiaoqiao1108@163.com
